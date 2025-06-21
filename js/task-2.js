@@ -32,9 +32,4 @@ const markup = images
 
 createGalery.insertAdjacentHTML("beforeend", markup);
 
-createGalery.style.display = "flex";
-createGalery.style.flexWrap = "wrap";
-createGalery.style.justifyContent = "center";
-createGalery.style.rowGap = "48px";
-createGalery.style.columnGap = "24px";
-createGalery.style.listStyle = "none";
+

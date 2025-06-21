@@ -1,8 +1,8 @@
-/* .gallery {
+.gallery {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     row-gap: 48px;
     column-gap: 24px;
     list-style: none;
-} */
+}
